@@ -1,0 +1,1 @@
+print("Hello from github hosted runner")
